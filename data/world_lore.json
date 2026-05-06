@@ -1,0 +1,44 @@
+[
+  {
+    "id": "lore_rusty_flagon",
+    "name": "The Rusty Flagon Inn",
+    "tags": ["location", "tavern", "starting"],
+    "content": "The Rusty Flagon Inn sits on the cobbled edge of Thornwall City's market square. Its weathered oak sign creaks in the wind, a tankard of ale rusted shut by salt air. Inside, low rafters hold dangling lanterns; a long bar of dark mahogany runs the length of the common room. The keeper, Old Bren, is a half-orc with a soft heart and sharper memory than he lets on. Rumors flow as freely as the cheap mead — adventurers gather here before heading into the Whispering Woods."
+  },
+  {
+    "id": "lore_thornwall",
+    "name": "Thornwall City",
+    "tags": ["location", "city"],
+    "content": "Thornwall City is the largest free city of Eldenmoor, ringed by black-thorn hedgerows said to be enchanted by the first druids. Its three districts — the Merchant Quarter, the Lanternlow slums, and the High Vault (where nobles live) — each operate under separate councils, often at odds. The city watch wears silver tabards. Shadow factions like the Ashen Brotherhood hold quiet power in the alleys."
+  },
+  {
+    "id": "lore_whispering_woods",
+    "name": "The Whispering Woods",
+    "tags": ["location", "wilderness", "danger"],
+    "content": "The Whispering Woods stretch north of Thornwall — a forest where the trees genuinely whisper at dusk, voices in old Elvish. Druids of the Greenmantle Circle protect inner glades. Travelers who stray off the King's Road risk encounters with worgs, fey trickery, or the lingering ghosts of the Sundering War. A ruined elven tower called Sylven's Reach stands at the heart."
+  },
+  {
+    "id": "lore_sunken_dungeon",
+    "name": "The Sunken Dungeon",
+    "tags": ["location", "dungeon", "ruins"],
+    "content": "The Sunken Dungeon lies beneath the marshes east of Thornwall — once a temple to a forgotten god of hunger, now half-collapsed and flooded ankle-deep. Reeks of rot. Skeletons, giant spiders, and a Vampire Spawn called Yssandra make their lairs here. Adventurers report hearing chants in a dead tongue from the lowest level. Treasure is rumored, but few who descend return whole."
+  },
+  {
+    "id": "lore_merchant_quarter",
+    "name": "The Merchant Quarter",
+    "tags": ["location", "city", "shops"],
+    "content": "The Merchant Quarter of Thornwall bustles from dawn to dusk. Market stalls sell fresh bread, exotic spices from Jaharan caravans, leather goods, weapons of dwarven steel. Notable shops: Halmar's Forge (weapons and armor), the Gilded Quill (scrolls and potions), Mother Yera's Apothecary. Pickpockets work the crowds — most of them sworn to the Ashen Brotherhood."
+  },
+  {
+    "id": "lore_silver_hand",
+    "name": "The Silver Hand Guild",
+    "tags": ["faction", "lawful"],
+    "content": "The Silver Hand is a guild of monster hunters, sellswords, and protectors-for-hire. Founded after the Sundering War to keep peace where the king's law cannot reach. They wear a small silver gauntlet pin. Headquartered in Thornwall's High Vault. Pays bounties for monster heads and rescues, but holds members to a strict code: no harm to innocents, no betrayal of contracts."
+  },
+  {
+    "id": "lore_ashen_brotherhood",
+    "name": "The Ashen Brotherhood",
+    "tags": ["faction", "criminal"],
+    "content": "The Ashen Brotherhood is Thornwall's thieves' guild, marked by a smear of ash on the brow during initiation. They control smuggling, fencing, and most of the city's pickpockets. Led by a mysterious figure called only the Cinder. They maintain an uneasy truce with the Silver Hand and tolerate adventurers who pay tribute. Cross them and you may find your throat opened in an alley."
+  }
+]

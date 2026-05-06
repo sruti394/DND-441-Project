@@ -1,0 +1,56 @@
+[
+  {
+    "id": "rule_skill_checks",
+    "name": "Skill Checks",
+    "tags": ["rules", "core"],
+    "content": "Skill Checks: Roll 1d20 + ability modifier (+ proficiency if proficient) vs a Difficulty Class (DC). Common DCs: Very Easy 5, Easy 10, Medium 15, Hard 20, Very Hard 25, Nearly Impossible 30. Natural 20 is not an automatic success on skill checks (only attacks). The DM sets the DC based on the situation."
+  },
+  {
+    "id": "rule_combat_turn",
+    "name": "Combat Turn Structure",
+    "tags": ["rules", "combat"],
+    "content": "Combat Turn: Each turn a creature gets one Action, one Bonus Action (if available), one Reaction (between turns), and movement up to its Speed. Common actions: Attack, Cast Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object. Combat is run in initiative order (1d20 + DEX modifier)."
+  },
+  {
+    "id": "rule_stealth",
+    "name": "Stealth Rules",
+    "tags": ["rules", "skill"],
+    "content": "Stealth: To hide, a creature must be unseen and unheard. Roll DEX (Stealth) opposed by passive Perception (10 + WIS modifier + proficiency) of nearby creatures. Stealth fails immediately if you attack, cast a loud spell, or move into clear view. Heavy armor imposes disadvantage on Stealth."
+  },
+  {
+    "id": "rule_grapple",
+    "name": "Grappling",
+    "tags": ["rules", "combat"],
+    "content": "Grappling: Use the Attack action to make a special melee attack — a grapple. Replace the attack roll with a STR (Athletics) check contested by the target's STR (Athletics) or DEX (Acrobatics). On success, target is grappled (Speed becomes 0). Grapple ends if grappler is incapacitated or target is moved out of reach."
+  },
+  {
+    "id": "rule_death_saves",
+    "name": "Death Saving Throws",
+    "tags": ["rules", "combat"],
+    "content": "Death Saves: When at 0 HP and not killed outright, at the start of each turn roll 1d20. 10+ is a success, 9 or less is a failure. 3 successes: stable. 3 failures: dead. Natural 20: regain 1 HP and become conscious. Natural 1: counts as 2 failures. Taking damage while at 0 HP costs a failure (or 2 from a critical)."
+  },
+  {
+    "id": "rule_conditions",
+    "name": "Conditions Overview",
+    "tags": ["rules", "core"],
+    "content": "Conditions: Status effects altering a creature's capabilities. Common conditions: Blinded, Charmed, Deafened, Frightened, Grappled, Incapacitated, Invisible, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned, Unconscious, Exhausted (6 levels). Each has specific mechanical effects — see condition_lookup tool."
+  },
+  {
+    "id": "rule_advantage",
+    "name": "Advantage and Disadvantage",
+    "tags": ["rules", "core"],
+    "content": "Advantage / Disadvantage: When you have advantage, roll 2d20 and take the higher. With disadvantage, take the lower. They do not stack — having any sources of both cancels to a normal roll, regardless of count. Advantage is granted by good positioning, helpful conditions, or specific abilities."
+  },
+  {
+    "id": "rule_concentration",
+    "name": "Concentration",
+    "tags": ["rules", "magic"],
+    "content": "Concentration: Some spells require concentration to maintain. You can only concentrate on one spell at a time. When you take damage while concentrating, make a CON save: DC equals 10 or half the damage taken, whichever is higher. Concentration also breaks if you become incapacitated, killed, or cast another concentration spell."
+  },
+  {
+    "id": "rule_short_rest",
+    "name": "Short and Long Rests",
+    "tags": ["rules", "core"],
+    "content": "Rests: Short Rest is 1 hour — spend Hit Dice (1d8/d10/etc + CON modifier) to heal, recover certain class features. Long Rest is 8 hours — regain all HP, half max Hit Dice, all spell slots, most class resources. Only one long rest per 24 hours; need at least 1 HP to take a long rest."
+  }
+]

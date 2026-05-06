@@ -1,0 +1,68 @@
+[
+  {
+    "id": "monster_goblin",
+    "name": "Goblin",
+    "tags": ["monster", "combat", "humanoid"],
+    "content": "Goblin: HP 7, AC 15, Speed 30ft. Attack: Scimitar +4 to hit, 1d6+2 slashing. Traits: Nimble Escape (can Disengage or Hide as bonus action). Tactics: goblins prefer ambushes from cover, and flee when outnumbered or when a leader falls. They cackle and shriek in their guttural tongue."
+  },
+  {
+    "id": "monster_orc",
+    "name": "Orc",
+    "tags": ["monster", "combat", "humanoid"],
+    "content": "Orc: HP 15, AC 13, Speed 30ft. Attack: Greataxe +5 to hit, 1d12+3 slashing. Traits: Aggressive (can move up to its speed toward a hostile as a bonus action). Tactics: orcs charge headlong into battle, favoring overwhelming force and brutal close combat. They worship Gruumsh, the one-eyed war god."
+  },
+  {
+    "id": "monster_skeleton",
+    "name": "Skeleton",
+    "tags": ["monster", "combat", "undead"],
+    "content": "Skeleton: HP 13, AC 13, Speed 30ft. Attack: Shortsword +4 to hit, 1d6+2 piercing, or Shortbow +4, 1d6+2 piercing. Vulnerable to bludgeoning. Immune to poison and exhaustion. Tactics: silent, relentless, fights to destruction with no fear or self-preservation."
+  },
+  {
+    "id": "monster_zombie",
+    "name": "Zombie",
+    "tags": ["monster", "combat", "undead"],
+    "content": "Zombie: HP 22, AC 8, Speed 20ft. Attack: Slam +3 to hit, 1d6+1 bludgeoning. Traits: Undead Fortitude (when reduced to 0 HP, makes a CON save DC 5 + damage to drop to 1 HP instead, unless radiant or critical). Tactics: shambling, slow, but devastatingly hard to put down."
+  },
+  {
+    "id": "monster_wolf",
+    "name": "Wolf",
+    "tags": ["monster", "combat", "beast"],
+    "content": "Wolf: HP 11, AC 13, Speed 40ft. Attack: Bite +4 to hit, 2d4+2 piercing. On hit, target makes DC 11 STR save or be knocked prone. Traits: Pack Tactics (advantage on attacks if an ally is within 5ft of target). Keen Hearing and Smell. Tactics: hunt in packs, isolate prey."
+  },
+  {
+    "id": "monster_giant_spider",
+    "name": "Giant Spider",
+    "tags": ["monster", "combat", "beast"],
+    "content": "Giant Spider: HP 26, AC 14, Speed 30ft, climb 30ft. Attack: Bite +5 to hit, 1d8+3 piercing plus DC 11 CON save or take 2d8 poison and become poisoned. Web (recharge 5-6): DC 12 DEX save or restrained. Tactics: ambushes from webs in dark crawlspaces and ruined towers."
+  },
+  {
+    "id": "monster_bandit",
+    "name": "Bandit",
+    "tags": ["monster", "combat", "humanoid"],
+    "content": "Bandit: HP 11, AC 12 (leather armor), Speed 30ft. Attack: Scimitar +3 to hit, 1d6+1 slashing, or Crossbow +3, 1d8+1 piercing. Tactics: bandits rarely fight to the death; they bluff, threaten, and flee if a fight goes poorly. Often led by a Bandit Captain."
+  },
+  {
+    "id": "monster_troll",
+    "name": "Troll",
+    "tags": ["monster", "combat", "giant"],
+    "content": "Troll: HP 84, AC 15, Speed 30ft. Attack: Multiattack — 1 bite (+7 to hit, 1d6+4 piercing) and 2 claws (+7, 2d6+4 slashing). Regeneration: regains 10 HP at the start of its turn unless it took fire or acid damage that turn. Tactics: brutally strong, only fire or acid stops it for good."
+  },
+  {
+    "id": "monster_vampire_spawn",
+    "name": "Vampire Spawn",
+    "tags": ["monster", "combat", "undead"],
+    "content": "Vampire Spawn: HP 82, AC 15, Speed 30ft, climb 30ft. Attack: Multiattack — Claws (+6, 2d4+3 slashing plus grapple) and Bite (+6, 1d6+3 piercing plus 2d6 necrotic, target's max HP reduced). Regeneration 10 unless in sunlight or after taking radiant. Tactics: cunning, seductive, flees to coffin if low."
+  },
+  {
+    "id": "monster_young_dragon",
+    "name": "Young Red Dragon",
+    "tags": ["monster", "combat", "dragon"],
+    "content": "Young Red Dragon: HP 178, AC 18, Speed 40ft, fly 80ft. Multiattack: 1 bite (+10, 2d10+6 piercing plus 1d6 fire) and 2 claws (+10, 2d6+6 slashing). Fire Breath (recharge 5-6): 30ft cone, DC 17 DEX save, 16d6 fire damage (half on save). Tactics: prideful, toys with foes, claims hoards in mountain lairs."
+  },
+  {
+    "id": "monster_giant_rat",
+    "name": "Giant Rat",
+    "tags": ["monster", "combat", "beast"],
+    "content": "Giant Rat: HP 7, AC 12, Speed 30ft. Attack: Bite +4 to hit, 1d4+2 piercing. Pack Tactics. Keen Smell. Tactics: appear in swarms in cellars, sewers, and forgotten dungeons; relatively weak alone but dangerous in numbers."
+  }
+]

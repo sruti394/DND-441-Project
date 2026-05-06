@@ -1,0 +1,68 @@
+[
+  {
+    "id": "item_shortsword",
+    "name": "Shortsword",
+    "tags": ["item", "weapon", "martial"],
+    "content": "Shortsword: Martial melee weapon. Damage 1d6 piercing. Properties: Finesse, Light. Cost 10gp. Weight 2 lb. A common sidearm for rogues and rangers, light enough to wield in either hand."
+  },
+  {
+    "id": "item_longbow",
+    "name": "Longbow",
+    "tags": ["item", "weapon", "martial", "ranged"],
+    "content": "Longbow: Martial ranged weapon. Damage 1d8 piercing. Properties: Ammunition (range 150/600), Heavy, Two-Handed. Cost 50gp. Weight 2 lb. Favored by rangers and elite archers; can drop a man at three hundred paces."
+  },
+  {
+    "id": "item_leather_armor",
+    "name": "Leather Armor",
+    "tags": ["item", "armor", "light"],
+    "content": "Leather Armor: Light armor. AC 11 + DEX modifier. Cost 10gp. Weight 10 lb. Stiffened boiled leather. No stealth penalty. Common starting armor for rogues, rangers, and wizards who anticipate trouble."
+  },
+  {
+    "id": "item_chain_mail",
+    "name": "Chain Mail",
+    "tags": ["item", "armor", "heavy"],
+    "content": "Chain Mail: Heavy armor. AC 16. Requires STR 13 or movement reduced by 10ft. Disadvantage on Stealth. Cost 75gp. Weight 55 lb. Interlocking metal rings worn over a leather backing — favored by fighters and clerics."
+  },
+  {
+    "id": "item_potion_healing",
+    "name": "Potion of Healing",
+    "tags": ["item", "potion", "consumable"],
+    "content": "Potion of Healing: A red liquid in a small glass vial. Drinking it as an action restores 2d4 + 2 hit points. Cost 50gp. Common item. Tastes vaguely of cinnamon and copper. Standard adventuring kit."
+  },
+  {
+    "id": "item_potion_antitoxin",
+    "name": "Antitoxin",
+    "tags": ["item", "potion", "consumable"],
+    "content": "Antitoxin: A bitter green draught in a glass vial. Drinking it grants advantage on saving throws against poison for 1 hour. Cost 50gp. Useful before delving into spider warrens or assassin-haunted alleys."
+  },
+  {
+    "id": "item_thieves_tools",
+    "name": "Thieves' Tools",
+    "tags": ["item", "tool", "kit"],
+    "content": "Thieves' Tools: A small cloth-wrapped bundle of lockpicks, a small file, a pair of pliers, a small mirror on a metal handle, and a set of narrow-bladed scissors. Cost 25gp. Weight 1 lb. Required for picking locks and disarming traps. Proficiency adds your bonus to checks."
+  },
+  {
+    "id": "item_rope",
+    "name": "Hempen Rope (50ft)",
+    "tags": ["item", "gear", "utility"],
+    "content": "Hempen Rope, 50 feet: Has 2 hit points and can be burst with a DC 17 Strength check. Cost 1gp. Weight 10 lb. Coil it around the shoulder, never travel without it — adventurers who skip rope live shorter lives."
+  },
+  {
+    "id": "item_ring_of_protection",
+    "name": "Ring of Protection",
+    "tags": ["item", "magical", "ring", "rare"],
+    "content": "Ring of Protection (Rare, requires attunement): A plain silver band etched with old protective runes. While worn, you gain a +1 bonus to AC and to all saving throws. A favored heirloom of paladins and cautious wizards alike."
+  },
+  {
+    "id": "item_dagger_plus_one",
+    "name": "+1 Dagger",
+    "tags": ["item", "magical", "weapon", "uncommon"],
+    "content": "+1 Dagger (Uncommon): A finely crafted blade, slightly warm to the touch. You gain a +1 bonus to attack and damage rolls made with this weapon. Damage 1d4+1 piercing (plus modifiers). Properties: Finesse, Light, Thrown (20/60). A favored gift among rogues."
+  },
+  {
+    "id": "item_torch",
+    "name": "Torch",
+    "tags": ["item", "gear", "light"],
+    "content": "Torch: Burns for 1 hour, sheds bright light in a 20ft radius and dim light for an additional 20ft. As a melee improvised weapon: 1 fire damage on hit. Cost 1cp. Weight 1 lb. The first defense against a dungeon's dark."
+  }
+]

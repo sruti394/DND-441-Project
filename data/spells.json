@@ -1,0 +1,62 @@
+[
+  {
+    "id": "spell_fireball",
+    "name": "Fireball",
+    "tags": ["spell", "wizard", "combat", "evocation"],
+    "content": "Fireball (3rd level, Evocation): Range 150ft, 20ft radius sphere. Each creature in area makes DC 14 (or spellcasting DC) Dex save. 8d6 fire damage on fail, half on success. Components: V, S, M (a tiny ball of bat guano and sulfur). Ignites flammable objects."
+  },
+  {
+    "id": "spell_magic_missile",
+    "name": "Magic Missile",
+    "tags": ["spell", "wizard", "combat", "evocation"],
+    "content": "Magic Missile (1st level, Evocation): Range 120ft. Three glowing darts of magical force, each automatically hits a target you can see for 1d4+1 force damage. Always hits, no attack roll. Higher level: one extra dart per slot above 1st. Components: V, S."
+  },
+  {
+    "id": "spell_healing_word",
+    "name": "Healing Word",
+    "tags": ["spell", "cleric", "support"],
+    "content": "Healing Word (1st level, Evocation): Range 60ft, bonus action. A creature you can see regains HP equal to 1d4 + your spellcasting modifier. Higher level: +1d4 per slot above 1st. Components: V. Cannot revive a creature at 0 HP… wait, yes it can — it brings them up from unconscious if not dead."
+  },
+  {
+    "id": "spell_shield",
+    "name": "Shield",
+    "tags": ["spell", "wizard", "defense", "abjuration"],
+    "content": "Shield (1st level, Abjuration): Reaction, when hit by an attack or targeted by Magic Missile. +5 bonus to AC until start of your next turn, including against the triggering attack. Magic Missile does no damage to you. Components: V, S."
+  },
+  {
+    "id": "spell_invisibility",
+    "name": "Invisibility",
+    "tags": ["spell", "wizard", "stealth", "illusion"],
+    "content": "Invisibility (2nd level, Illusion): Range touch, concentration, up to 1 hour. A creature you touch becomes invisible until they attack or cast a spell. Anything they wear or carry is invisible while on their person. Components: V, S, M (an eyelash in gum arabic)."
+  },
+  {
+    "id": "spell_charm_person",
+    "name": "Charm Person",
+    "tags": ["spell", "wizard", "social", "enchantment"],
+    "content": "Charm Person (1st level, Enchantment): Range 30ft. One humanoid you can see makes a WIS save (advantage if you or allies are fighting it). On fail, it is charmed by you for 1 hour or until you or allies harm it. Charmed creature regards you as a friendly acquaintance. Components: V, S."
+  },
+  {
+    "id": "spell_thunderwave",
+    "name": "Thunderwave",
+    "tags": ["spell", "wizard", "combat", "evocation"],
+    "content": "Thunderwave (1st level, Evocation): Self, 15ft cube. Each creature in area makes a CON save. On fail: 2d8 thunder damage and pushed 10ft away from you. On success: half damage and not pushed. Audible 300ft. Components: V, S."
+  },
+  {
+    "id": "spell_sacred_flame",
+    "name": "Sacred Flame",
+    "tags": ["spell", "cleric", "combat", "cantrip"],
+    "content": "Sacred Flame (Cantrip, Evocation): Range 60ft. Target makes a DEX save (no benefit from cover). On fail, takes 1d8 radiant damage. Damage scales: 2d8 at 5th, 3d8 at 11th, 4d8 at 17th level. Components: V, S."
+  },
+  {
+    "id": "spell_eldritch_blast",
+    "name": "Eldritch Blast",
+    "tags": ["spell", "warlock", "combat", "cantrip"],
+    "content": "Eldritch Blast (Cantrip, Evocation): Range 120ft. Ranged spell attack, 1d10 force damage on hit. Multiple beams at higher levels: 2 at 5th, 3 at 11th, 4 at 17th. Each beam can target a different creature. Components: V, S."
+  },
+  {
+    "id": "spell_sleep",
+    "name": "Sleep",
+    "tags": ["spell", "wizard", "control", "enchantment"],
+    "content": "Sleep (1st level, Enchantment): Range 90ft, 20ft radius. Roll 5d8; this is the total HP of creatures the spell can affect. Starting with the lowest current HP, creatures fall unconscious until damaged or someone uses an action to shake them awake. Undead and immune-to-charm creatures are unaffected."
+  }
+]
